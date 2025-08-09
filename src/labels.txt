@@ -1,0 +1,2 @@
+0 good Hygiene
+1 poor Hygiene
