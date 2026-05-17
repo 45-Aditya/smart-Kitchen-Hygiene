@@ -4,15 +4,13 @@
   "platform": "\u2014",
   "counts": {
     "person_clean": 187,
-    "person_unhygienic": 236,
+    "person_unhygienic": 238,
     "veg_fresh": 14,
     "veg_rotten": 0,
     "platform_clean": 0,
     "platform_unclean": 0
   },
   "alerts": [
-    "Unhygienic person detected at 11:12:48",
-    "Unhygienic person detected at 11:12:50",
     "Unhygienic person detected at 11:12:53",
     "Unhygienic person detected at 11:12:56",
     "Unhygienic person detected at 11:12:58",
@@ -60,7 +58,9 @@
     "Unhygienic person detected at 09:20:47",
     "Unhygienic person detected at 09:20:50",
     "Unhygienic person detected at 09:20:52",
-    "Unhygienic person detected at 09:20:53"
+    "Unhygienic person detected at 09:20:53",
+    "Unhygienic person detected at 16:40:29",
+    "Unhygienic person detected at 16:40:30"
   ],
-  "last_updated": "2026-04-20 09:20:54"
+  "last_updated": "2026-05-17 16:40:35"
 }
