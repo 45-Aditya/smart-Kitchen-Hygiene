@@ -10,8 +10,7 @@ smart_kitchen_node/
 ├── dashboard_data.json       ← Written by yolo_main.py (place here)
 ├── public/
 │   └── dashboard.html        ← Dashboard UI
-└── static/
-    └── evidence/             ← Detection snapshots go here
+
 ```
 
 ## Setup (One Time Only)
@@ -28,7 +27,6 @@ npm install
 
 ### Step 3 — Copy your files
 - Copy `dashboard_data.json` from your project root into this folder
-- The `static\evidence\` folder is already created
 
 ## Running the Dashboard
 
@@ -75,5 +73,4 @@ Dashboard     →  updates live with no page refresh needed
 Update the `DATA_FILE` path in `yolo_main.py`:
 ```python
 DATA_FILE = r"E:\Aditya\smart-Kitchen-Hygiene\smart_kitchen_node\dashboard_data.json"
-EVIDENCE_FOLDER = r"E:\Aditya\smart-Kitchen-Hygiene\smart_kitchen_node\static\evidence"
 ```
